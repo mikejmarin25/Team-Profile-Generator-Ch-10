@@ -33,7 +33,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 # Live URL Link
 https://mikejmarin25.github.io/Team-Profile-Generator-Ch-10/
 
-#Github Repo for TeamProfileGenerator
+# Github Repo for Project
 https://github.com/mikejmarin25/Team-Profile-Generator-Ch-10/
 
 

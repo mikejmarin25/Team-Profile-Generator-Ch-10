@@ -25,6 +25,8 @@ SO THAT I have quick access to their emails and GitHub profiles
 - WHEN I decide to finish building my team
 - THEN I exit the application, and the HTML is generated
 
+# Screenshots
+
 <img width="1341" alt="Screen Shot 2022-08-18 at 21 38 01" src="https://user-images.githubusercontent.com/105763252/185524033-2992bab0-534d-4ee1-9c00-fe805af1e217.png">
 
 

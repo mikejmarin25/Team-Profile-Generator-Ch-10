@@ -4,5 +4,5 @@ const inquirer = require("inquirer");
 // Initialize a new object
 const app = new App();
 
-// Start 
+// Start
 app.start();

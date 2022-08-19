@@ -30,6 +30,12 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 <img width="891" alt="Screen Shot 2022-08-18 at 21 38 51" src="https://user-images.githubusercontent.com/105763252/185524042-1a0fc1b3-b293-45e0-80de-3d7d04394662.png">
 
+# Live URL Link
+https://mikejmarin25.github.io/Team-Profile-Generator-Ch-10/
+
+#Github Repo for TeamProfileGenerator
+https://github.com/mikejmarin25/Team-Profile-Generator-Ch-10/
+
 
 
 
